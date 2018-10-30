@@ -64,7 +64,7 @@ html[lang="sah"] *,
 html[lang="sr_RS"] *,
 html[lang="tt_RU"] *,
 html[lang="uk"] * {
-  font_family: 'Helvetica Neue', Helvetica, 'Segoe UI', Arial, sans_serif !important;
+  font-family: 'Helvetica Neue', Helvetica, 'Segoe UI', Arial, sans_serif !important;
 }
 
 /* Arabic */
